@@ -17,7 +17,8 @@
     * [第2节：食](book_test/chapter1/shi.md)
     * [第3节：住](book_test/chapter1/zhu.md)
     * [第4节：行](book_test/chapter1/hang.md)
-  * [第二章](book_test/chapter2.md)
+  * [第二章](book_test/chapter2/README.md)
+    * [第一节 ceshi](book_test/chapter2/di-yi-jie-ceshi.md)
   * [第三章](book_test/chapter3.md)
   * [第四章](book_test/chapter4.md)
 
