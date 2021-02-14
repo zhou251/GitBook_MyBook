@@ -1,8 +1,4 @@
-# README
-
-## GitBook\_MyBook
-
-## THIS IS
+# THIS IS
 
 ## _**zhou251の文档中心**_
 
