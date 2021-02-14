@@ -1,0 +1,68 @@
+{
+  "title": "四季的诗",
+  "description": "四季是我一生的诗",
+  "author": "四季",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "links": {
+    "sharing":{
+      "google":false,
+      "facebook":false,
+      "twitter":false,
+      "all": false
+    },
+    "sidebar":{
+      "我的博客": "https://zhou251.top/",
+      "我的GitHub": "https://github.com/zhou251"
+    }
+  },
+    "plugins":[
+      "tbfed-pagefooter",
+      "anchor-navigation-ex",
+      "-lunr", "-search", "search-pro",
+      "splitter",
+      "donate"
+    ],
+    "pluginsConfig": 
+    {
+      "tbfed-pagefooter": 
+      {
+        "copyright":"Copyright © 四季 2021",
+        "modify_label": "该文件修订于：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+      },
+      "anchor-navigation-ex":
+      {
+        "showLevel": false,
+        "associatedWithSummary": true,
+        "printLog": false,
+        "multipleH1": false,
+        "mode": "float",
+        "showGoTop":true,
+        "float": 
+        {
+        "floatIcon": "fa fa-hand-pointer-o",
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+        },
+        "pageTop": 
+        {
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+        }
+      },
+      "donate": 
+      {
+        "wechat": "https://i.loli.net/2021/02/14/LvEQGbx7O8WJVzn.jpg",
+        "alipay": "https://i.loli.net/2021/02/14/pm79g8DFLHuibsS.jpg",
+        "title": "感谢你的支持！！！",
+        "button": "赏",
+        "alipayText": "支付宝打赏",
+        "wechatText": "微信打赏"
+      }
+    }
+}
